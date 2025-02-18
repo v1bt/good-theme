@@ -1,0 +1,36 @@
+{  
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Good Theme",
+    "description": "A theme that is neither too little nor too much",
+    "homepage_url": "https://github.com/v1bt/good-theme",
+    "author": "Virtual Byte",
+  
+    "theme": {
+      "colors": {
+        "frame": [16,18,24],
+        "toolbar": [36,40,53],
+        "ntp_background": [16,18,24],
+        "background_tab": [16,18,24],
+        "background_tab_inactive": [16,18,24],
+        "background_tab_incognito": [16,18,24],
+        "background_tab_incognito_inactive": [16,18,24],
+  
+        "tab_background_text": [255,255,255],
+        "tab_text": [255,255,255],
+        "bookmark_text": [255,255,255],
+        
+        "toolbar_button_icon": [255,255,255],
+        "toolbar_text": [255,255,255],
+        "omnibox_text": [255,255,255],
+        
+        "window_control_button_background_active": [16,18,24],
+        "window_control_button_background_inactive": [16,18,24],
+        "window_control_button_minimize": [255,199,0],
+        "window_control_button_maximize": [40,195,70],
+        "window_control_button_close": [255,95,86],
+
+        "frame_inactive": [16,18,24]
+      }
+    }
+  }
